@@ -1,6 +1,6 @@
 ### Hi there, I'm Erudyx! 👋
 
-My name is Nathan. I'm a software developper, currently studying at Epitech, in France!
+My name is Nathan. I'm a software developer, currently studying at Epitech, in France!
 
 ## &#x1f4c8; GitHub Stats
 
