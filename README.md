@@ -1,6 +1,17 @@
-### Hi there, I'm Erudyx! 👋
+### Hi there, I'm Nathan, a software developer! 👋
 
-My name is Nathan. I'm a software developer, currently studying at Epitech, in France!
+## &#x1f4c8; About me
+
+💼 - 3rd year student at EPITECH, learning a lot
+
+💼 - Self taught rust dev
+
+💼 - Freelance developer
+
+⚙️ - Crypto, blockchain and new tech enthusiast
+
+🧗‍♂️ - climbing & parkour enjoyer
+
 
 ## &#x1f4c8; GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)](https://github.com/Erudyx/Erudyx)
