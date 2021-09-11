@@ -6,10 +6,8 @@ My name is Nathan. I'm a software developer, currently studying at Epitech, in F
 
 <a href="https://github.com/Erudyx/Erudyx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erudyx&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Erudyx/Erudyx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Erudyx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Erudyx's GitHub Stats" />
-</a>
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)icon_color=2bbc8a&
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Erudyx)
