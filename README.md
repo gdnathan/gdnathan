@@ -2,13 +2,15 @@
 
 ## &#x1f4c8; About me
 
-💼 - 3rd year student at EPITECH, learning a lot
+💼 - 4th year student at EPITECH, learning a lot
 
-💼 - Self taught rust dev
+💼 - Self taught rust developper
 
 💼 - Freelance developer
 
 ⚙️ - Crypto, blockchain and new tech enthusiast
+
+👑 - neovim supra-chad user
 
 🧗‍♂️ - climbing & parkour enjoyer
 
