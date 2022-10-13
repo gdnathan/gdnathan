@@ -1,18 +1,18 @@
-### Hi there, I'm Nathan, a software developer! 👋
+### Hi there, I'm Nathan - aka Erudyx, a software developer! 👋
 
 ## &#x1f4c8; About me
 
-💼 - 4th year student at EPITECH, learning a lot
+💼 - 4th year student at Dublin City University, learning computer science
 
 💼 - Self taught rust developper
 
-💼 - Freelance developer
+💼 - Freelance blockchain developer
 
 ⚙️ - Crypto, blockchain and new tech enthusiast
 
 👑 - neovim supra-chad user
 
-🧗‍♂️ - climbing & parkour enjoyer
+🧗‍♂️ - climbing, parkour & urbex enjoyer
 
 
 ## &#x1f4c8; GitHub Stats
